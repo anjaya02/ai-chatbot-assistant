@@ -148,19 +148,3 @@ ai-chatbot-assistant/
 │   │   ├── utils/
 ├── README.md
 ```
-
----
-
-## 📝 Submission Checklist
-
-* ✅ Full-stack chatbot application
-* ✅ Uses Gemini/OpenAI API
-* ✅ Responsive, chat-style interface with React + CSS
-* ✅ Clean folder structure and modular code
-* ✅ `.env.example` included
-* ✅ Complete README with setup and API docs
-* ✅ Demo video recorded and shared
-
-```
-
----
