@@ -28,7 +28,7 @@ The frontend is built with **React** and styled using **vanilla CSS** to deliver
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-chatbot-assistant.git
+git clone https://github.com/anjaya02/ai-chatbot-assistant.git
 cd ai-chatbot-assistant
 ````
 
