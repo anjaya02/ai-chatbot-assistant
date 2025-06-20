@@ -126,7 +126,7 @@ Sends a user message to the backend, which processes it using the Gemini or Open
 
 A 2-minute walkthrough video is available here:
 
-[📽️ Watch Demo Video on Google Drive](https://drive.google.com/your-shared-video-link)
+[📽️ Watch Demo Video on Google Drive]([https://drive.google.com/your-shared-video-link](https://drive.google.com/file/d/1VwAwOJvmVnGdNay4DxQqhnt5BmuB0u7c/view?usp=drive_link))
 
 ---
 
